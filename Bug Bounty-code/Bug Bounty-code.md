@@ -77,7 +77,7 @@ new_password","is_admin":"true
 ![desc](Pasted image 20241107012003.png)
 
 Меняем его и отправляем:
-![desc](Pasted image 20241107012225.png)
+![desc](Pasted%20image%2020241107012225.png)
 
 Заходим под новыми кредами и видим, что теперь мы - админы:
 ![[Pasted image 20241107012321.png]]
